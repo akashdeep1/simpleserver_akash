@@ -1,4 +1,15 @@
-This example showcases how to serve up a static web page using the `express` server.
+
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
+
+
+Welcome to your Node.js project on Cloud9 IDE!
+
+This chat example showcases how to use `socket.io` with a static `express` server.
 
 ## Running the server
 
@@ -8,4 +19,15 @@ This example showcases how to serve up a static web page using the `express` ser
 
     $ node server.js
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. Visiting that site should render index.html.
+Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+# aka
+# aka
+# aka
+# instaclone
+# clone
+# clone
+# clone
+# savedcode
+# new
+# new
+# simpleserver_akash
